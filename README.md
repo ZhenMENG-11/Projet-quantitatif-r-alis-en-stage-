@@ -26,7 +26,8 @@ The Python code is currently being developed and executed in **Dataiku**, a coll
 
 Below is the current state of the workflow built in Dataiku:
 
-![Dataiku Workflow](./images/dataiku_flow.png) <C:\Users\mycfr\OneDrive\桌面\Projet-Reproduction d’un modèle interne>
+![Dataiku Workflow](dataiku.png)
+
 
 **Explanation:**
 - **CAC_40_Time_Series_**: Input dataset (monthly historical data)
